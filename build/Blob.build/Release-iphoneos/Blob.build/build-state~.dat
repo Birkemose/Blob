@@ -1,0 +1,2000 @@
+TBlob
+v7
+r0
+t331924692.789044
+cCheck dependencies
+cCpResource build/Release-iphoneos/Blob.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Info.plist Resources/Info.plist
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Default.png Resources/Default.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/fps_images.png Resources/fps_images.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Icon.png Resources/Icon.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/grossini_dance_atlas.png Resources/grossini_dance_atlas.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/blob.png /Developer/Projects/IPhone/Blob/Resources/blob.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/drop.png /Developer/Projects/IPhone/Blob/Resources/drop.png
+cCopyPlistFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/system.plist /Developer/Projects/IPhone/Blob/Resources/system.plist
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/eyes.png /Developer/Projects/IPhone/Blob/Resources/eyes.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/red.png /Developer/Projects/IPhone/Blob/Resources/red.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/cocos2d.png /Developer/Projects/IPhone/Blob/Resources/cocos2d.png
+cCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ane.png /Developer/Projects/IPhone/Blob/Resources/ane.png
+cProcessPCH /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch.gch Blob_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch.gch Blob_Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/main.o /Developer/Projects/IPhone/Blob/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/BlobAppDelegate.o /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/RootViewController.o /Developer/Projects/IPhone/Blob/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/gameScene.o /Developer/Projects/IPhone/Blob/Classes/gameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeTilt.o "/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeUtil.o "/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeBlob.o "/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkBody.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeDatalogger.o "/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkSpace.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/main.o /Developer/Projects/IPhone/Blob/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob normal armv6
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/BlobAppDelegate.o /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/RootViewController.o /Developer/Projects/IPhone/Blob/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/gameScene.o /Developer/Projects/IPhone/Blob/Classes/gameScene.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeTilt.o "/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeUtil.o "/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeBlob.o "/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkBody.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeDatalogger.o "/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkSpace.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob normal armv7
+cCreateUniversalBinary /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob normal "armv6 armv7"
+cGenerateDSYMFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app.dSYM /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob
+cProcessProductPackaging "/Users/larsbirkemose/Library/MobileDevice/Provisioning Profiles/E0E25F28-65EE-441C-A425-677C4916363B.mobileprovision" /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/embedded.mobileprovision
+cTouch /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent
+cCodeSign /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ChipmunkBody.h
+c000000004D06BDBD000000000000170C
+t1292287421
+s5900
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ChipmunkConstraint.h
+c000000004D06BDBD0000000000003918
+t1292287421
+s14616
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ChipmunkExtras.h
+c000000004D06BDBD000000000000071E
+t1292287421
+s1822
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ChipmunkObject.h
+c000000004D06BDBD0000000000000405
+t1292287421
+s1029
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ChipmunkShape.h
+c000000004D06BDBD00000000000017E4
+t1292287421
+s6116
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ChipmunkSpace.h
+c000000004D06BDBD0000000000002D7D
+t1292287421
+s11645
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/ObjectiveChipmunk.h
+c000000004D06BDBD0000000000000957
+t1292287421
+s2391
+i<TargetConditionals.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGAffineTransform.h>
+i"chipmunk/chipmunk.h"
+i"ChipmunkObject.h"
+i"ChipmunkBody.h"
+i"ChipmunkShape.h"
+i"ChipmunkConstraint.h"
+i"ChipmunkSpace.h"
+i"ChipmunkExtras.h"
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/chipmunk.h
+c000000004D06BDBD0000000000001293
+t1292287421
+s4755
+i"chipmunk_types.h"
+i"cpVect.h"
+i"cpBB.h"
+i"cpArray.h"
+i"cpHashSet.h"
+i"cpSpaceHash.h"
+i"cpBody.h"
+i"cpShape.h"
+i"cpPolyShape.h"
+i"cpArbiter.h"
+i"cpCollision.h"
+i"constraints/cpConstraint.h"
+i"cpSpace.h"
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/chipmunk_types.h
+c000000004D06BDBD0000000000000AF4
+t1292287421
+s2804
+i"TargetConditionals.h"
+i<CoreGraphics/CGGeometry.h>
+i<ApplicationServices/ApplicationServices.h>
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpConstraint.h
+c000000004D06BDBD0000000000000DBB
+t1292287421
+s3515
+i"cpPinJoint.h"
+i"cpSlideJoint.h"
+i"cpPivotJoint.h"
+i"cpGrooveJoint.h"
+i"cpDampedSpring.h"
+i"cpDampedRotarySpring.h"
+i"cpRotaryLimitJoint.h"
+i"cpRatchetJoint.h"
+i"cpGearJoint.h"
+i"cpSimpleMotor.h"
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpDampedRotarySpring.h
+c000000004D06BDBD00000000000008AE
+t1292287421
+s2222
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpDampedSpring.h
+c000000004D06BDBD0000000000000956
+t1292287421
+s2390
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpGearJoint.h
+c000000004D06BDBD00000000000006DB
+t1292287421
+s1755
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpGrooveJoint.h
+c000000004D06BDBD00000000000007E2
+t1292287421
+s2018
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpPinJoint.h
+c000000004D06BDBD00000000000006E9
+t1292287421
+s1769
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpPivotJoint.h
+c000000004D06BDBD00000000000006F2
+t1292287421
+s1778
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpRatchetJoint.h
+c000000004D06BDBD00000000000006FC
+t1292287421
+s1788
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpRotaryLimitJoint.h
+c000000004D06BDBD00000000000006BF
+t1292287421
+s1727
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpSimpleMotor.h
+c000000004D06BDBD0000000000000620
+t1292287421
+s1568
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/constraints/cpSlideJoint.h
+c000000004D06BDBD0000000000000774
+t1292287421
+s1908
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpArbiter.h
+c000000004D06BDBD00000000000018CC
+t1292287421
+s6348
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpArray.h
+c000000004D06BDBD0000000000000760
+t1292287421
+s1888
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpBB.h
+c000000004D06BDBD00000000000008D1
+t1292287421
+s2257
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpBody.h
+c000000004D06BDBD0000000000001CD7
+t1292287421
+s7383
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpCollision.h
+c000000004D06BDBD0000000000000592
+t1292287421
+s1426
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpHashSet.h
+c000000004D06BDBD0000000000000DB9
+t1292287421
+s3513
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpPolyShape.h
+c000000004D06BDBD0000000000000D90
+t1292287421
+s3472
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpShape.h
+c000000004D06BDBD00000000000016F4
+t1292287421
+s5876
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpSpace.h
+c000000004D06BDBD0000000000001F56
+t1292287421
+s8022
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpSpaceHash.h
+c000000004D06BDBD000000000000128A
+t1292287421
+s4746
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/chipmunk/cpVect.h
+c000000004D06BDBD00000000000016B2
+t1292287421
+s5810
+
+N/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator/libObjectiveChipmunk-iPhone.a
+c000000004D06BDBD00000000002710DC
+t1292287421
+s2560220
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h
+c000000004CC10DCA000000000000138E
+t1287720394
+s5006
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004CC10DCA00000000000022F0
+t1287720394
+s8944
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004CC10DCA0000000000002650
+t1287720394
+s9808
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004CC10F3800000000000459B0
+t1287720760
+s285104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004CC110BE000000000000094F
+t1287721150
+s2383
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004CC110BE0000000000000A61
+t1287721150
+s2657
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004CC110BE0000000000009369
+t1287721150
+s37737
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004CC110BE0000000000003C4A
+t1287721150
+s15434
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004CC110CB000000000002C650
+t1287721163
+s181840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/TargetConditionals.h
+c000000004CB3FBB800000000000031E9
+t1286863800
+s12777
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/inttypes.h
+c000000004CB3E4B800000000000027D1
+t1286857912
+s10193
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/mach/mach.h
+c000000004CBFAB710000000000001057
+t1287629681
+s4183
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/mach/mach_host.h
+c000000004CBFAB720000000000004F74
+t1287629682
+s20340
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/objc/objc.h
+c000000004CC1098E0000000000000A2F
+t1287719310
+s2607
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stddef.h
+c000000004CB3E4B80000000000001404
+t1286857912
+s5124
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/sysctl.h
+c000000004CBFACD80000000000007974
+t1287630040
+s31092
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/time.h
+c000000004CBFACD90000000000001E17
+t1287630041
+s7703
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sys/utsname.h
+c000000004CBFACD90000000000000F14
+t1287630041
+s3860
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libz.dylib
+c000000004CC105400000000000020FF0
+t1287718208
+s135152
+
+N/Developer/Projects/IPhone/Blob/Blob_Prefix.pch
+c000000004DFF2A7500000000000000AB
+t1308568181
+s171
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.h
+c000000004DFF2F7000000000000003A2
+t1308569456
+s930
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m
+c000000004E0328CA00000000000011A8
+t1308829898
+s4520
+i"cocos2d.h"
+i"BlobAppDelegate.h"
+i"GameConfig.h"
+i"gameScene.h"
+i"RootViewController.h"
+
+N/Developer/Projects/IPhone/Blob/Classes/GameConfig.h
+c000000004E0328CA00000000000001E3
+t1308829898
+s483
+
+N/Developer/Projects/IPhone/Blob/Classes/RootViewController.h
+c000000004DFF2F700000000000000312
+t1308569456
+s786
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/IPhone/Blob/Classes/RootViewController.m
+c000000004DFF2F7000000000000004E2
+t1308569456
+s1250
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Developer/Projects/IPhone/Blob/Classes/gameScene.h
+c000000004E17680300000000000004C2
+t1310156803
+s1218
+i"cocos2d.h"
+i"ObjectiveChipmunk.h"
+i"pgeChipmunkSpace.h"
+i"pgeBlob.h"
+i"pgeTilt.h"
+
+N/Developer/Projects/IPhone/Blob/Classes/gameScene.m
+c000000004E188C3E0000000000001323
+t1310231614
+s4899
+i"gameScene.h"
+i"pgeUtil.h"
+i"pgeTilt.h"
+i"pgeBlob.h"
+
+N/Developer/Projects/IPhone/Blob/Resources/Default.png
+c000000004DE390950000000000004E67
+t1306759317
+s20071
+
+N/Developer/Projects/IPhone/Blob/Resources/Icon.png
+c000000004DFF2A75000000000000246F
+t1308568181
+s9327
+
+N/Developer/Projects/IPhone/Blob/Resources/ane.png
+c000000004E14A9D20000000000006066
+t1309977042
+s24678
+
+N/Developer/Projects/IPhone/Blob/Resources/blob.png
+c000000004E08FFF50000000000000DB0
+t1309212661
+s3504
+
+N/Developer/Projects/IPhone/Blob/Resources/cocos2d.png
+c000000004E0DDC6E00000000000041F2
+t1309531246
+s16882
+
+N/Developer/Projects/IPhone/Blob/Resources/drop.png
+c000000004E03558D0000000000001BA2
+t1308841357
+s7074
+
+N/Developer/Projects/IPhone/Blob/Resources/eyes.png
+c000000004E09A20E000000000000219D
+t1309254158
+s8605
+
+N/Developer/Projects/IPhone/Blob/Resources/fps_images.png
+c000000004DFF2A75000000000000183B
+t1308568181
+s6203
+
+N/Developer/Projects/IPhone/Blob/Resources/grossini_dance_atlas.png
+c000000004DFF2A75000000000000204C
+t1308568181
+s8268
+
+N/Developer/Projects/IPhone/Blob/Resources/red.png
+c000000004E0DAFF2000000000000109E
+t1309519858
+s4254
+
+N/Developer/Projects/IPhone/Blob/Resources/system.plist
+c000000004E089E320000000000002877
+t1309187634
+s10359
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent
+t1310231891
+s414
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob
+t1310231889
+s1275216
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob.LinkFileList
+c000000004E188D4C0000000000000461
+t1310231884
+s1121
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/BlobAppDelegate.o
+t1310231886
+s60536
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/RootViewController.o
+t1310231886
+s37356
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/gameScene.o
+t1310231887
+s60760
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/main.o
+t1310231886
+s3576
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeBlob.o
+t1310231887
+s31700
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkBody.o
+t1310231887
+s17148
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkSpace.o
+t1310231887
+s14452
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeDatalogger.o
+t1310231887
+s13304
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeTilt.o
+t1310231886
+s11260
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeUtil.o
+t1310231887
+s18120
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob
+t1310231890
+s1164624
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob.LinkFileList
+c000000004E188D4C0000000000000461
+t1310231884
+s1121
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/BlobAppDelegate.o
+t1310231888
+s60320
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/RootViewController.o
+t1310231888
+s37284
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/gameScene.o
+t1310231889
+s60596
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/main.o
+t1310231888
+s3616
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeBlob.o
+t1310231889
+s32300
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkBody.o
+t1310231889
+s16880
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkSpace.o
+t1310231890
+s14308
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeDatalogger.o
+t1310231890
+s13144
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeTilt.o
+t1310231889
+s11132
+
+N/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeUtil.o
+t1310231889
+s17552
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+t1310231892
+s680
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app.dSYM
+t1310231891
+s102
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob
+t1310231890
+s2446672
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Default.png
+t1310231885
+s21900
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Icon.png
+t1310231885
+s10022
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Info.plist
+t1310231885
+s881
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/PkgInfo
+t1310231885
+s8
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ResourceRules.plist
+t1310231885
+s485
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ane.png
+t1310231886
+s25767
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/blob.png
+t1310231885
+s3929
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/cocos2d.png
+t1310231886
+s17734
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/drop.png
+t1310231885
+s8524
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/embedded.mobileprovision
+t1310231891
+s8107
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/eyes.png
+t1310231885
+s9030
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/fps_images.png
+t1310231885
+s7188
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/grossini_dance_atlas.png
+t1310231885
+s9156
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/red.png
+t1310231885
+s4444
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/system.plist
+t1310231885
+s9467
+
+N/Developer/Projects/IPhone/Blob/build/Release-iphoneos/libcocos2d libraries.a
+c000000004E188D4C00000000006EBC10
+t1310231884
+s7257104
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCAction.h
+c000000004DFF2A75000000000000167A
+t1308568181
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionCamera.h
+c000000004DFF2A7500000000000009AA
+t1308568181
+s2474
+i"CCActionInterval.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionEase.h
+c000000004DFF2A750000000000001671
+t1308568181
+s5745
+i"CCActionInterval.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionGrid.h
+c000000004DFF2A75000000000000148F
+t1308568181
+s5263
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionGrid3D.h
+c000000004DFF2A750000000000001A8A
+t1308568181
+s6794
+i"CCActionGrid.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionInstant.h
+c000000004DFF2A75000000000000115E
+t1308568181
+s4446
+i"CCAction.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionInterval.h
+c000000004DFF2A750000000000003268
+t1308568181
+s12904
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionManager.h
+c000000004DFF2A750000000000001072
+t1308568181
+s4210
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionPageTurn3D.h
+c000000004DFF2A750000000000000644
+t1308568181
+s1604
+i"CCActionGrid3D.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionProgressTimer.h
+c000000004DFF2A75000000000000088D
+t1308568181
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionTiledGrid.h
+c000000004DFF2A750000000000001A15
+t1308568181
+s6677
+i"CCActionGrid.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCActionTween.h
+c000000004DFF2A760000000000000932
+t1308568182
+s2354
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCAtlasNode.h
+c000000004DFF2A760000000000000C07
+t1308568182
+s3079
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCBlockSupport.h
+c000000004DFF2A7600000000000007AA
+t1308568182
+s1962
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCCamera.h
+c000000004DFF2A760000000000000B48
+t1308568182
+s2888
+i"CCNode.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCCompatibility.h
+c000000004DFF2A760000000000003891
+t1308568182
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCConfiguration.h
+c000000004DFF2A760000000000000DA1
+t1308568182
+s3489
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCDirector.h
+c000000004DFF2A7600000000000022AA
+t1308568182
+s8874
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCDrawingPrimitives.h
+c000000004DFF2A760000000000000C26
+t1308568182
+s3110
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCGrabber.h
+c000000004DFF2A7600000000000005E4
+t1308568182
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCGrid.h
+c000000004DFF2A760000000000000E5A
+t1308568182
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCLabelAtlas.h
+c000000004DFF2A760000000000000B25
+t1308568182
+s2853
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCLabelBMFont.h
+c000000004DFF2A76000000000000163C
+t1308568182
+s5692
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCLabelTTF.h
+c000000004DFF2A760000000000000A73
+t1308568182
+s2675
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCLayer.h
+c000000004DFF2A7600000000000018C6
+t1308568182
+s6342
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCMenu.h
+c000000004DFF2A760000000000000ADF
+t1308568182
+s2783
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCMenuItem.h
+c000000004DFF2A7600000000000031FC
+t1308568182
+s12796
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCMotionStreak.h
+c000000004DFF2A760000000000000B2A
+t1308568182
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCNode.h
+c000000004DFF2A7600000000000041FD
+t1308568182
+s16893
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCParallaxNode.h
+c000000004DFF2A76000000000000075B
+t1308568182
+s1883
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCParticleExamples.h
+c000000004DFF2A760000000000000AD9
+t1308568182
+s2777
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCParticleSystem.h
+c000000004DFF2A7600000000000036BF
+t1308568182
+s14015
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCParticleSystemPoint.h
+c000000004DFF2A760000000000000778
+t1308568182
+s1912
+i"CCParticleSystem.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCParticleSystemQuad.h
+c000000004DFF2A7600000000000009D3
+t1308568182
+s2515
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCProgressTimer.h
+c000000004DFF2A760000000000000B48
+t1308568182
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCProtocols.h
+c000000004DFF2A760000000000000E35
+t1308568182
+s3637
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCRenderTexture.h
+c000000004DFF2A760000000000000C1C
+t1308568182
+s3100
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCRibbon.h
+c000000004DFF2A760000000000000FCD
+t1308568182
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCScene.h
+c000000004DFF2A760000000000000677
+t1308568182
+s1655
+i"CCNode.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCScheduler.h
+c000000004DFF2A7600000000000019D7
+t1308568182
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCSprite.h
+c000000004DFF2A7600000000000031DA
+t1308568182
+s12762
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCSpriteBatchNode.h
+c000000004DFF2A7600000000000018F8
+t1308568182
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCSpriteFrame.h
+c000000004DFF2A76000000000000158F
+t1308568182
+s5519
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCSpriteFrameCache.h
+c000000004DFF2A7600000000000012B5
+t1308568182
+s4789
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCSpriteSheet.h
+c000000004DFF2A7600000000000009FE
+t1308568182
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTMXLayer.h
+c000000004DFF2A760000000000001828
+t1308568182
+s6184
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTMXObjectGroup.h
+c000000004DFF2A7600000000000008D5
+t1308568182
+s2261
+i"CCSpriteSheet.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTMXTiledMap.h
+c000000004DFF2A7600000000000014D4
+t1308568182
+s5332
+i"CCSpriteSheet.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTMXXMLParser.h
+c000000004DFF2A7600000000000016B9
+t1308568182
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTexture2D.h
+c000000004DFF2A760000000000002C26
+t1308568182
+s11302
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTextureAtlas.h
+c000000004DFF2A76000000000000145B
+t1308568182
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTextureCache.h
+c000000004DFF2A76000000000000148A
+t1308568182
+s5258
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTexturePVR.h
+c000000004DFF2A760000000000000D41
+t1308568182
+s3393
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTileMapAtlas.h
+c000000004DFF2A760000000000000B86
+t1308568182
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTransition.h
+c000000004DFF2A760000000000002134
+t1308568182
+s8500
+i"CCScene.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTransitionPageTurn.h
+c000000004DFF2A760000000000000917
+t1308568182
+s2327
+i"CCTransition.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/CCTransitionRadial.h
+c000000004DFF2A760000000000000630
+t1308568182
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/CCGL.h
+c000000004DFF2A760000000000000BF8
+t1308568182
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/CCNS.h
+c000000004DFF2A760000000000000965
+t1308568182
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004DFF2A7600000000000008D9
+t1308568182
+s2265
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004DFF2A760000000000001967
+t1308568182
+s6503
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004DFF2A760000000000000A44
+t1308568182
+s2628
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004DFF2A7600000000000029FD
+t1308568182
+s10749
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004DFF2A760000000000000BC3
+t1308568182
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004DFF2A7600000000000010CA
+t1308568182
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004DFF2A760000000000000D99
+t1308568182
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004DFF2A7600000000000018F9
+t1308568182
+s6393
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004DFF2A7600000000000006F8
+t1308568182
+s1784
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Platforms/iOS/glu.h
+c000000004DFF2A76000000000000030D
+t1308568182
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/CCArray.h
+c000000004DFF2A760000000000000BD7
+t1308568182
+s3031
+i"ccCArray.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/CCFileUtils.h
+c000000004DFF2A760000000000000672
+t1308568182
+s1650
+i<Foundation/Foundation.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/CCProfiling.h
+c000000004DFF2A7600000000000006E9
+t1308568182
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/CGPointExtension.h
+c000000004DFF2A760000000000001EAB
+t1308568182
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004DFF2A7600000000000011A7
+t1308568182
+s4519
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/TGAlib.h
+c000000004DFF2A760000000000000444
+t1308568182
+s1092
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/ccCArray.h
+c000000004DFF2A7600000000000030F3
+t1308568182
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/ccUtils.h
+c000000004DFF2A760000000000000204
+t1308568182
+s516
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/uthash.h
+c000000004DFF2A76000000000000FB13
+t1308568182
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/Support/utlist.h
+c000000004DFF2A760000000000009091
+t1308568182
+s37009
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/ccConfig.h
+c000000004DFF2A760000000000002449
+t1308568182
+s9289
+i<Availability.h>
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/ccMacros.h
+c000000004DFF2A760000000000001C29
+t1308568182
+s7209
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/ccTypes.h
+c000000004DFF2A7600000000000016C0
+t1308568182
+s5824
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Developer/Projects/IPhone/Blob/libs/cocos2d/cocos2d.h
+c000000004DFF2A760000000000001005
+t1308568182
+s4101
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Developer/Projects/IPhone/Blob/main.m
+c000000004DFF2A76000000000000015D
+t1308568182
+s349
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.h
+c000000004E188C9A00000000000008C2
+t1310231706
+s2242
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"ObjectiveChipmunk.h"
+i"pgeChipmunkBody.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m
+c000000004E14DC0900000000000018D3
+t1309989897
+s6355
+i"pgeBlob.h"
+i"pgeUtil.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.h
+c000000004E07A1110000000000000471
+t1309122833
+s1137
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"ObjectiveChipmunk.h"
+i"pgeDatalogger.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m
+c000000004E16FD1C00000000000007B2
+t1310129436
+s1970
+i"pgeChipmunkBody.h"
+i"pgeUtil.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.h
+c000000004E07A22400000000000003AD
+t1309123108
+s941
+i"GameConfig.h"
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"ObjectiveChipmunk.h"
+i"pgeUtil.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m
+c000000004E0DB180000000000000068E
+t1309520256
+s1678
+i"pgeChipmunkSpace.h"
+i"pgeChipmunkBody.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.h
+c000000004E1767A7000000000000057F
+t1310156711
+s1407
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m
+c000000004E16FE1B0000000000000C7E
+t1310129691
+s3198
+i"pgeDatalogger.h"
+i"pgeUtil.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.h
+c000000004E1717340000000000000485
+t1310136116
+s1157
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"GameConfig.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m
+c000000004E17176D00000000000005F2
+t1310136173
+s1522
+i"pgeTilt.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.h
+c000000004E1718830000000000000772
+t1310136451
+s1906
+i"cocos2d.h"
+
+N/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m
+c000000004E17188300000000000014E1
+t1310136451
+s5345
+i"pgeUtil.h"
+i<sys/sysctl.h>
+i<mach/mach.h>
+i<mach/mach_host.h>
+i<sys/utsname.h>
+
+N/Users/larsbirkemose/Library/MobileDevice/Provisioning Profiles/E0E25F28-65EE-441C-A425-677C4916363B.mobileprovision
+c000000004E0717570000000000001FAB
+t1309087575
+s8107
+
+N/var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch.gch
+t1308776195
+s8034008
+
+N/var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch.gch
+t1308776195
+s7534296
+
+NResources/Info.plist
+c000000004DFF2A7500000000000003FE
+t1308568181
+s1022
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331924684#331924684#0(0"0(0#1#0"8627037024#0"0#
+
+CCodeSign /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+s331924691.548932
+e331924692.788867
+r1
+xCodeSign
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+lSLF07#2@40"CodeSign build/Release-iphoneos/Blob.app331924691#331924692#0(0"0(0#0#63"/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app8613310560#613"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Lars Birkemose (9P84R9N9H3)" --resource-rules=/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ResourceRules.plist --entitlements /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/BlobAppDelegate.o /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924686.098064
+e331924686.710460
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/BlobAppDelegate.o
+x/Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m331924686#331924686#0(0"0(0#0#57"/Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m8628835168#1402"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/BlobAppDelegate.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/RootViewController.o /Developer/Projects/IPhone/Blob/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924686.436916
+e331924686.654256
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/RootViewController.o
+x/Developer/Projects/IPhone/Blob/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Developer/Projects/IPhone/Blob/Classes/RootViewController.m331924686#331924686#0(0"0(0#0#60"/Developer/Projects/IPhone/Blob/Classes/RootViewController.m8628985440#1408"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/Classes/RootViewController.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/gameScene.o /Developer/Projects/IPhone/Blob/Classes/gameScene.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924686.654393
+e331924687.013183
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/gameScene.o
+x/Developer/Projects/IPhone/Blob/Classes/gameScene.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@59"Compile /Developer/Projects/IPhone/Blob/Classes/gameScene.m331924686#331924687#0(0"0(0#0#51"/Developer/Projects/IPhone/Blob/Classes/gameScene.m8628556800#1390"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/Classes/gameScene.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/gameScene.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/main.o /Developer/Projects/IPhone/Blob/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924686.096662
+e331924686.436783
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/main.o
+x/Developer/Projects/IPhone/Blob/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@46"Compile /Developer/Projects/IPhone/Blob/main.m331924686#331924686#0(0"0(0#0#38"/Developer/Projects/IPhone/Blob/main.m8627413152#1372"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/main.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeBlob.o "/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924687.013448
+e331924687.360533
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeBlob.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m331924687#331924687#0(0"0(0#0#55"/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m8626348576#1394"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeBlob.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkBody.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924687.191563
+e331924687.451313
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkBody.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m331924687#331924687#0(0"0(0#0#63"/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m8611637440#1410"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkBody.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkSpace.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924687.451453
+e331924687.690220
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkSpace.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@72"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m331924687#331924687#0(0"0(0#0#64"/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m8599563520#1412"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeChipmunkSpace.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeDatalogger.o "/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924687.360676
+e331924687.583427
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeDatalogger.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m331924687#331924687#0(0"0(0#0#61"/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m8626406688#1406"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeDatalogger.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeTilt.o "/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924686.710601
+e331924686.894617
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeTilt.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m331924686#331924686#0(0"0(0#0#55"/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m8628392320#1394"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeTilt.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeUtil.o "/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s331924686.894763
+e331924687.191249
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeUtil.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m331924686#331924687#0(0"0(0#0#55"/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m8626367232#1394"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mno-thumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv6 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/pgeUtil.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/BlobAppDelegate.o /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924688.522954
+e331924688.812583
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/BlobAppDelegate.o
+x/Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m331924688#331924688#0(0"0(0#0#57"/Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m8607323040#1399"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/Classes/BlobAppDelegate.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/BlobAppDelegate.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/RootViewController.o /Developer/Projects/IPhone/Blob/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924688.812720
+e331924689.007487
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/RootViewController.o
+x/Developer/Projects/IPhone/Blob/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@68"Compile /Developer/Projects/IPhone/Blob/Classes/RootViewController.m331924688#331924689#0(0"0(0#0#60"/Developer/Projects/IPhone/Blob/Classes/RootViewController.m8625697184#1405"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/Classes/RootViewController.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/gameScene.o /Developer/Projects/IPhone/Blob/Classes/gameScene.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.007624
+e331924689.364004
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/gameScene.o
+x/Developer/Projects/IPhone/Blob/Classes/gameScene.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@59"Compile /Developer/Projects/IPhone/Blob/Classes/gameScene.m331924689#331924689#0(0"0(0#0#51"/Developer/Projects/IPhone/Blob/Classes/gameScene.m8626269280#1387"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/Classes/gameScene.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/gameScene.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/main.o /Developer/Projects/IPhone/Blob/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924687.583572
+e331924688.522695
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/main.o
+x/Developer/Projects/IPhone/Blob/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@46"Compile /Developer/Projects/IPhone/Blob/main.m331924687#331924688#0(0"0(0#0#38"/Developer/Projects/IPhone/Blob/main.m8628998400#1369"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c /Developer/Projects/IPhone/Blob/main.m -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeBlob.o "/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.461130
+e331924689.832475
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeBlob.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m331924689#331924689#0(0"0(0#0#55"/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m8627270976#1391"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeBlob.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeBlob.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkBody.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.682355
+e331924689.932483
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkBody.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@71"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m331924689#331924689#0(0"0(0#0#63"/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m8627096928#1407"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkBody.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkBody.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkSpace.o "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.932617
+e331924690.170452
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkSpace.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@72"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m331924689#331924690#0(0"0(0#0#64"/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m8613387584#1409"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeChipmunkSpace.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeChipmunkSpace.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeDatalogger.o "/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.832618
+e331924690.061669
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeDatalogger.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@69"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m331924689#331924690#0(0"0(0#0#61"/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m8622404128#1403"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeDatalogger.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeDatalogger.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeTilt.o "/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.271267
+e331924689.460979
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeTilt.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m331924689#331924689#0(0"0(0#0#55"/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m8628906112#1391"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeTilt.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeTilt.o0#
+
+CCompileC build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeUtil.o "/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s331924689.364154
+e331924689.682218
+r1
+xCompileC
+xbuild/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeUtil.o
+x/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m331924689#331924689#0(0"0(0#0#55"/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m8628611104#1391"    cd /Developer/Projects/IPhone/Blob    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -funroll-loops -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.hmap -Wall -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -I/Developer/Projects/IPhone/Blob/build/Release-iphoneos/include -Ilibs -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources/armv7 -I/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch -c "/Developer/Projects/IPhone/Protec Game Engine/pgeUtil.m" -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/pgeUtil.o0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Default.png Resources/Default.png
+s331924685.049999
+e331924685.541192
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Default.png
+xResources/Default.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/Blob.app/Default.png Resources/Default.png331924685#331924685#0(0"0(0#0#53"/Developer/Projects/IPhone/Blob/Resources/Default.png13229804949078112#550"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/Default.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Default.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Icon.png Resources/Icon.png
+s331924685.493184
+e331924685.535474
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Icon.png
+xResources/Icon.png
+lSLF07#2@71"CopyPNGFile build/Release-iphoneos/Blob.app/Icon.png Resources/Icon.png331924685#331924685#0(0"0(0#0#50"/Developer/Projects/IPhone/Blob/Resources/Icon.png8602718944#544"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/Icon.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Icon.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ane.png /Developer/Projects/IPhone/Blob/Resources/ane.png
+s331924686.000699
+e331924686.077692
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ane.png
+x/Developer/Projects/IPhone/Blob/Resources/ane.png
+lSLF07#2@69"CopyPNGFile build/Release-iphoneos/Blob.app/ane.png Resources/ane.png331924686#331924686#0(0"0(0#0#49"/Developer/Projects/IPhone/Blob/Resources/ane.png8628215936#542"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/ane.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ane.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/blob.png /Developer/Projects/IPhone/Blob/Resources/blob.png
+s331924685.541388
+e331924685.591207
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/blob.png
+x/Developer/Projects/IPhone/Blob/Resources/blob.png
+lSLF07#2@71"CopyPNGFile build/Release-iphoneos/Blob.app/blob.png Resources/blob.png331924685#331924685#0(0"0(0#0#50"/Developer/Projects/IPhone/Blob/Resources/blob.png8625701312#544"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/blob.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/blob.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/cocos2d.png /Developer/Projects/IPhone/Blob/Resources/cocos2d.png
+s331924685.967245
+e331924686.096335
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/cocos2d.png
+x/Developer/Projects/IPhone/Blob/Resources/cocos2d.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/Blob.app/cocos2d.png Resources/cocos2d.png331924685#331924686#0(0"0(0#0#53"/Developer/Projects/IPhone/Blob/Resources/cocos2d.png8612690848#550"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/cocos2d.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/cocos2d.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/drop.png /Developer/Projects/IPhone/Blob/Resources/drop.png
+s331924685.591333
+e331924685.683082
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/drop.png
+x/Developer/Projects/IPhone/Blob/Resources/drop.png
+lSLF07#2@71"CopyPNGFile build/Release-iphoneos/Blob.app/drop.png Resources/drop.png331924685#331924685#0(0"0(0#0#50"/Developer/Projects/IPhone/Blob/Resources/drop.png8613000800#544"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/drop.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/drop.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/eyes.png /Developer/Projects/IPhone/Blob/Resources/eyes.png
+s331924685.762484
+e331924685.912881
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/eyes.png
+x/Developer/Projects/IPhone/Blob/Resources/eyes.png
+lSLF07#2@71"CopyPNGFile build/Release-iphoneos/Blob.app/eyes.png Resources/eyes.png331924685#331924685#0(0"0(0#0#50"/Developer/Projects/IPhone/Blob/Resources/eyes.png8613365632#544"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/eyes.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/eyes.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/fps_images.png Resources/fps_images.png
+s331924685.050980
+e331924685.492954
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@83"CopyPNGFile build/Release-iphoneos/Blob.app/fps_images.png Resources/fps_images.png331924685#331924685#0(0"0(0#0#56"/Developer/Projects/IPhone/Blob/Resources/fps_images.png8628102208#556"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/fps_images.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/fps_images.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/grossini_dance_atlas.png Resources/grossini_dance_atlas.png
+s331924685.535600
+e331924685.762360
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/grossini_dance_atlas.png
+xResources/grossini_dance_atlas.png
+lSLF07#2@103"CopyPNGFile build/Release-iphoneos/Blob.app/grossini_dance_atlas.png Resources/grossini_dance_atlas.png331924685#331924685#0(0"0(0#0#66"/Developer/Projects/IPhone/Blob/Resources/grossini_dance_atlas.png8626912384#576"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/grossini_dance_atlas.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/grossini_dance_atlas.png0#
+
+CCopyPNGFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/red.png /Developer/Projects/IPhone/Blob/Resources/red.png
+s331924685.913023
+e331924686.000571
+r1
+xCopyPNGFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/red.png
+x/Developer/Projects/IPhone/Blob/Resources/red.png
+lSLF07#2@69"CopyPNGFile build/Release-iphoneos/Blob.app/red.png Resources/red.png331924685#331924686#0(0"0(0#0#49"/Developer/Projects/IPhone/Blob/Resources/red.png8612664800#542"    cd /Developer/Projects/IPhone/Blob    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Developer/Projects/IPhone/Blob/Resources/red.png /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/red.png0#
+
+CCopyPlistFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/system.plist /Developer/Projects/IPhone/Blob/Resources/system.plist
+s331924685.683213
+e331924685.967118
+r1
+xCopyPlistFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/system.plist
+x/Developer/Projects/IPhone/Blob/Resources/system.plist
+lSLF07#2@59"Copy /Developer/Projects/IPhone/Blob/Resources/system.plist331924685#331924685#0(0"0(0#0#54"/Developer/Projects/IPhone/Blob/Resources/system.plist8605401344#400"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 /Developer/Projects/IPhone/Blob/Resources/system.plist --outdir /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app0#
+
+CCpResource build/Release-iphoneos/Blob.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s331924684.979040
+e331924685.049862
+r1
+xCpResource
+xbuild/Release-iphoneos/Blob.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist331924684#331924685#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8614547264#500"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app0#
+
+CCreateUniversalBinary /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob normal "armv6 armv7"
+s331924690.810881
+e331924690.873030
+r1
+xCreateUniversalBinary
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob
+xnormal
+xarmv6 armv7
+lSLF07#2@79"CreateUniversalBinary build/Release-iphoneos/Blob.app/Blob normal "armv6 armv7"331924690#331924690#0(0"0(0#0#43"/Developer/Projects/IPhone/Blob/armv6 armv78628713344#472"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob -output /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob0#
+
+CGenerateDSYMFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app.dSYM /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob
+s331924690.873177
+e331924691.475691
+r1
+xGenerateDSYMFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app.dSYM
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob
+lSLF07#2@90"GenerateDSYMFile build/Release-iphoneos/Blob.app.dSYM build/Release-iphoneos/Blob.app/Blob331924690#331924691#0(0"0(0#0#68"/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob8628472704#336"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Blob -o /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app.dSYM0#
+
+CLd /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob normal armv6
+s331924687.690348
+e331924689.271117
+r1
+xLd
+x/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob
+xnormal
+xarmv6
+lSLF07#2@107"Link /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob331924687#331924689#0(0"0(0#0#0"8628103264#1091"    cd /Developer/Projects/IPhone/Blob    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Developer/Projects/IPhone/Blob/build/Release-iphoneos -L/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -filelist /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob.LinkFileList -dead_strip -all_load -ObjC -miphoneos-version-min=3.0 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -lObjectiveChipmunk-iPhone -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv6/Blob0#
+
+CLd /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob normal armv7
+s331924690.170580
+e331924690.810746
+r1
+xLd
+x/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob
+xnormal
+xarmv7
+lSLF07#2@107"Link /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob331924690#331924690#0(0"0(0#0#0"8626935328#1091"    cd /Developer/Projects/IPhone/Blob    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Developer/Projects/IPhone/Blob/build/Release-iphoneos -L/Developer/Chipmunk-5.3.4/Objective-Chipmunk/Objective-Chipmunk/Objective-Chipmunk-simulator -F/Developer/Projects/IPhone/Blob/build/Release-iphoneos -filelist /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob.LinkFileList -dead_strip -all_load -ObjC -miphoneos-version-min=3.0 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -lObjectiveChipmunk-iPhone -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Objects-normal/armv7/Blob0#
+
+CProcessInfoPlistFile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Info.plist Resources/Info.plist
+s331924684.980310
+e331924685.034074
+r1
+xProcessInfoPlistFile
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist331924684#331924685#0(0"0(0#0#52"/Developer/Projects/IPhone/Blob/Resources/Info.plist8628243680#533"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/ResourceRules.plist -o /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/Info.plist0#
+
+CProcessPCH /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-eyvmgaljfxnpfgfnkrdfvxtijrsi/Blob_Prefix.pch.gch Blob_Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH /var/folders/ut/ut9quuIEEe4eGKJgKt-VIE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blob_Prefix-gjhpungseecmqoaedcmycmywfpuj/Blob_Prefix.pch.gch Blob_Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessProductPackaging "/Users/larsbirkemose/Library/MobileDevice/Provisioning Profiles/E0E25F28-65EE-441C-A425-677C4916363B.mobileprovision" /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/embedded.mobileprovision
+s331924691.475846
+e331924691.494490
+r1
+xProcessProductPackaging
+x/Users/larsbirkemose/Library/MobileDevice/Provisioning Profiles/E0E25F28-65EE-441C-A425-677C4916363B.mobileprovision
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/embedded.mobileprovision
+lSLF07#2@199"ProcessProductPackaging "/Users/larsbirkemose/Library/MobileDevice/Provisioning Profiles/E0E25F28-65EE-441C-A425-677C4916363B.mobileprovision" build/Release-iphoneos/Blob.app/embedded.mobileprovision331924691#331924691#0(0"0(0#0#88"/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/embedded.mobileprovision8627928960#416"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/larsbirkemose/Library/MobileDevice/Provisioning Profiles/E0E25F28-65EE-441C-A425-677C4916363B.mobileprovision" -o /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent
+s331924691.499533
+e331924691.548822
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent
+lSLF07#2@168"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent331924691#331924691#0(0"0(0#0#87"/Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent8613776320#411"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Developer/Projects/IPhone/Blob/build/Blob.build/Release-iphoneos/Blob.build/Blob.xcent0#
+
+CTouch /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+s331924691.494622
+e331924691.499406
+r1
+xTouch
+x/Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app
+lSLF07#2@69"Touch /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app331924691#331924691#0(0"0(0#0#0"8626119712#249"    cd /Developer/Projects/IPhone/Blob    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Projects/IPhone/Blob/build/Release-iphoneos/Blob.app0#
+
