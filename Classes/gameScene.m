@@ -56,6 +56,8 @@
 	m_space = [ [ [ pgeChipmunkSpace alloc ] init ] retain ];
 	m_space.damping = SCENE_DAMPING;
 		
+    // Urk ... upcoming hardcode
+    
 	// create boundaries
     shape = [ ChipmunkSegmentShape segmentWithBody:[ ChipmunkBody staticBody ] from:ccp( 0, SCENE_FLOOR ) to:ccp( 0, 480 ) radius:SCENE_BOUNDS_THICKNESS ];
 	shape.friction = SCENE_FRICTION;
